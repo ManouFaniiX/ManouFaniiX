@@ -17,7 +17,7 @@ I'm a second-year computer science student at ENI, exploring software developmen
 📫 Feel free to reach me at: **manuellafanii@gmail.com**
 
 <p align="center">
-  <img src="https://ibb.co/B5rgzqBZ" height="200" alt="Manuella's Image">
+<img src="https://i.ibb.co/JwyzB5H7/me-removebg-preview.png" alt="me-removebg-preview" border="0">
 </p>
 <hr>
 
