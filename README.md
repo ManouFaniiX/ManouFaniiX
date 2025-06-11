@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Manuella
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Manuella</h1>
 
 🌟 **A Passionate Front-End Developer & Aspiring Innovator**
 
@@ -21,7 +21,7 @@ I'm a second-year computer science student at ENI, exploring software developmen
 </p>
 <hr>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Manuella</h1>
+
 <h3 align="center">Aspiring Front-End Developer | Design Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
