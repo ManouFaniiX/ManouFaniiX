@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Manuella <img src="https://i.ibb.co/1tBtcZww/image-removebg-preview-2.png" alt="image-removebg-preview-2" border="0" width="50px" top="10px"></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Manuella <img src="https://i.ibb.co/1tBtcZww/image-removebg-preview-2.png" alt="image-removebg-preview-2" border="0" width="50px" margin="0"></h1>
 
 🌟 **A Passionate Front-End Developer & Aspiring Innovator**
 
