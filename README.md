@@ -2,7 +2,7 @@
 
 🌟 **A Passionate Front-End Developer & Aspiring Innovator**
 
-I'm a second-year computer science student at ENI, exploring software development and analog electronics.  
+I'm a second-year computer science student at ENI, exploring software development.  
 
 ### 🔭 **What I’m Working On:**
 - 🚀 Building web apps with React  
